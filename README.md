@@ -37,13 +37,12 @@ I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm 
 &nbsp;
 
 ## 🖥 &nbsp;Past work
-[![LucasSilvaC GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaC)](https://github.com/LucasSilvaC/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
 
 &nbsp;
 
 ## 📊 &nbsp;Stats
 [![LucasSilvaC GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaC&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSilvaC&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
