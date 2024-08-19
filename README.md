@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 &nbsp;Hi there
 
-<!--
-**LucasSilvaC/LucasSilvaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can find me on Twitter [@...](https://twitter.com/...). 
+Feel free to send me a tweet at any time. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) .
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👇 &nbsp;Current project
+
+I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm currently working on Bugcode. A solution for teaching and learning programming languages on mobile devices. It will be free and open source. Follow the [Twitter](https://twitter.com/...) feed to keep up with progress.
+
+&nbsp;
+
+## ✏️ &nbsp;Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [...](https://cyris.io/blog/reverse-engineer-reolink)
+- [...](https://cyris.io/blog/reverse-engineer-api-copy)
+- [...](https://cyris.io/blog/canvas-image-generation)
+- [...](https://cyris.io/blog/find-developer-friends)
+<!-- BLOG-POST-LIST:END -->
+
+&nbsp;
+
+## 🧰 &nbsp;My toolbox
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+          
+            
+&nbsp;
+
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSilvaC/LucasSilvaC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasSilvaC/LucasSilvaC/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasSilvaC/LucasSilvaC/output/github-contribution-grid-snake.svg">
+</picture>
