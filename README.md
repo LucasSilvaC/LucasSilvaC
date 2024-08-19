@@ -13,12 +13,10 @@ I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm 
 
 ## ✏️ &nbsp;Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [...](https://cyris.io/blog/reverse-engineer-reolink)
-- [...](https://cyris.io/blog/reverse-engineer-api-copy)
-- [...](https://cyris.io/blog/canvas-image-generation)
-- [...](https://cyris.io/blog/find-developer-friends)
-<!-- BLOG-POST-LIST:END -->
+- [...](https:/)
+- [...]()
+- [...]()
+- [...]()
 
 &nbsp;
 
