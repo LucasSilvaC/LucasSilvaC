@@ -1,22 +1,12 @@
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can find me on Twitter [@...](https://twitter.com/...). 
-Feel free to send me a tweet at any time. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) .
+I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) .
 
 &nbsp;
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm currently working on Bugcode. A solution for teaching and learning programming languages on mobile devices. It will be free and open source. Follow the [Twitter](https://twitter.com/...) feed to keep up with progress.
-
-&nbsp;
-
-## ✏️ &nbsp;Blog posts
-
-- [...](https:/)
-- [...]()
-- [...]()
-- [...]()
+I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm currently working on Bugcode. A solution for teaching and learning programming languages on mobile devices. It will be free and open source. 
 
 &nbsp;
 
