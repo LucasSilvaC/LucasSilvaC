@@ -2,6 +2,10 @@
 
 I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) .
 
+<div align="center">
+  <img src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
+</div>
+
 &nbsp;
 
 ## 👇 &nbsp;Current project
