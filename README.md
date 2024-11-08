@@ -3,7 +3,7 @@
 I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) .
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasSilvaC/LucasSilvaC/refs/heads/main/banner.gif">
+  <img src="https://github.com/LucasSilvaC/LucasSilvaC/blob/main/Background.gif?raw=true">
 </div>
 
 &nbsp;
