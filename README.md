@@ -4,6 +4,7 @@ I'm a software developer based in Brazil. I like to program both front-end and b
 
 <div align="center">
    <img src="https://64.media.tumblr.com/6817bc1e7a8566924b4b2503a9ee4032/1eec2c221201275f-26/s640x960/4f6dffe3c2334ed1750917f9f0caa3ebc05c15a3.gif">
+   <img src="https://64.media.tumblr.com/37b5cb80b6763b8cf0a9d774799bd132/13ef9ecd4c994832-2a/s540x810/581562d3a373d2e8a3f3fd03dd6392fbc1f3f780.gifv">
 </div>
 
 &nbsp;
