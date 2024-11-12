@@ -4,6 +4,7 @@ I'm a software developer based in Brazil. I like to program both front-end and b
 
 <div align="center">
   <img src="https://github.com/LucasSilvaC/LucasSilvaC/blob/main/Background.gif?raw=true">
+   <img src="https://64.media.tumblr.com/6817bc1e7a8566924b4b2503a9ee4032/1eec2c221201275f-26/s640x960/4f6dffe3c2334ed1750917f9f0caa3ebc05c15a3.gif">
 </div>
 
 &nbsp;
