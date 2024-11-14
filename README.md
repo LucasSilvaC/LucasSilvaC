@@ -43,5 +43,3 @@ I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSilvaC&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaC&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<img src="https://github.com/LucasSilvaC/LucasSilvaC/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
