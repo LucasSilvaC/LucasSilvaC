@@ -10,7 +10,7 @@ I'm a software developer based in Brazil. I like to program both front-end and b
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [Projeto Integrador](https://lucassilvac.github.io//). I'm currently working on Projeto Integrador from Senai. A system that integrates several languages into one complexity ecommerce site.
+I'm currently working on [Projeto Integrador](https://github.com/LucasSilvaC/ValBoxInt). I'm currently working on Integrator Project from Senai. A system that integrates several languages into one complexity ecommerce site.
 
 &nbsp;
 
@@ -32,7 +32,7 @@ I'm currently working on [Projeto Integrador](https://lucassilvac.github.io//). 
 
 ## 🖥 &nbsp;Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=BugCode&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/BugCode) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=Alugueis-imobiliarios&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/Alugueis-imobiliarios)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=ValBoxInts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/ValBoxInt)
 
 &nbsp;
 
