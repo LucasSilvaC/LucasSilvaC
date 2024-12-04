@@ -10,7 +10,7 @@ I'm a software developer based in Brazil. I like to program both front-end and b
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [Bugcode](https://lucassilvac.github.io/BugCode/). I'm currently working on Bugcode. A solution for teaching and learning programming languages on mobile devices. It will be free and open source. 
+I'm currently working on [Projeto Integrador](https://lucassilvac.github.io//). I'm currently working on Projeto Integrador from Senai. A system that integrates several languages into one complexity ecommerce site.
 
 &nbsp;
 
