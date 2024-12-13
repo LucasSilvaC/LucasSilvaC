@@ -1,6 +1,7 @@
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) .
+I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) . <br>
+Duda is my pretty and amazing GirlFriend❤💍
 
 <div align="center">
    <img src="https://64.media.tumblr.com/6817bc1e7a8566924b4b2503a9ee4032/1eec2c221201275f-26/s640x960/4f6dffe3c2334ed1750917f9f0caa3ebc05c15a3.gif">
