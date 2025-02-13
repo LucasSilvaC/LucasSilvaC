@@ -32,7 +32,7 @@ I'm currently working on [Integrator Project](https://github.com/LucasSilvaC/Val
 
 ## 🖥 &nbsp;Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=BugCode&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/BugCode) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=ValBoxInts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/ValBoxInt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=API-ValShop&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/API-ValShop)
 
 &nbsp;
 
