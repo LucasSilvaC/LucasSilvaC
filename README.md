@@ -10,7 +10,7 @@ I'm a software developer based in Brazil. I like to program both front-end and b
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [Integrator Project](https://github.com/LucasSilvaC/ValBoxInt). I'm currently working on Integrator Project from Senai. A system that integrates several languages into one complexity ecommerce site, including Html,Css,Js,Python,Sqlite,ESP8266,Certificate https and documentation.
+I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola). I'm currently working on CRUD Project from Senai. A system that integrates several languages into one complexity registry of Teachers, including Html,Css,Js,Python,Mysql,React.
 
 &nbsp;
 
