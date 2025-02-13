@@ -31,8 +31,8 @@ I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola)
 &nbsp;
 
 ## 🖥 &nbsp;Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=BugCde&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/BugCde) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=API-ValShp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/API-ValShp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=BugCode&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/BugCode) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=API-ValShop&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/API-ValShop)
 
 &nbsp;
 
