@@ -14,12 +14,13 @@ I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola)
 
 &nbsp;
 
-## 🧰 &nbsp;My Toolbox Frontend
+## 🧰 &nbsp;My Toolbox 
+### 🔹 Frontend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/>       
 
-## 🧰 &nbsp;My Toolbox BackEnd
+### 🔹 Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastApi" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>&nbsp;
@@ -41,3 +42,7 @@ I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSilvaC&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaC&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<div align="center">
+  <a href="https://github.com/lindomarbatistao/lindomarbatistao"><img alt="LucasSilvaC Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=LucasSilvaC&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
