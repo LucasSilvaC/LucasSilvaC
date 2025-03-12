@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops. You can also visit my Linkedin [Lucas Silva](https://www.linkedin.com/in/lucas-silva-64a715269/) . 
+<h3>I'm a software developer based in Brazil. I like to program both Full-Stack projects for mobile devices or desktops.</h3>
 
 <div align="center">
    <img src="https://64.media.tumblr.com/6817bc1e7a8566924b4b2503a9ee4032/1eec2c221201275f-26/s640x960/4f6dffe3c2334ed1750917f9f0caa3ebc05c15a3.gif">
@@ -10,11 +10,18 @@ I'm a software developer based in Brazil. I like to program both front-end and b
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola). I'm currently working on CRUD Project from Senai. A system that integrates several languages into one complexity registry of Teachers, including Python,Mysql,React.
+I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola). I'm currently working on CRUD Project from Senai.
+
+## ☎ &nbsp;Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-silva-64a715269/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
+  </a>
+</p>
 
 &nbsp;
 
-## 🧰 &nbsp;My Toolbox 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> &nbsp;My Toolbox 
 ### 🔹 Frontend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
@@ -37,8 +44,6 @@ I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola)
 &nbsp;
 
 ## 📊 &nbsp;Stats
-[![LucasSilvaC GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaC&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/github-readme-stats)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSilvaC&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaC&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
