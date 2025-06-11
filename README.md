@@ -10,7 +10,7 @@
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [API-Escola](https://github.com/LucasSilvaC/API-Escola). I'm currently working on CRUD Project from Senai.
+I'm currently working on [SmartCity](https://github.com/LucasSilvaC/SmartCity). I'm currently working on Smart City Project from Senai.
 
 ## ☎ &nbsp;Contact
 <p align="center">
