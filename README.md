@@ -8,10 +8,6 @@
 
 &nbsp;
 
-## 👇 &nbsp;Current project
-
-I'm currently working on [SmartCity](https://github.com/LucasSilvaC/SmartCity). I'm currently working on Smart City Project from Senai.
-
 ## ☎ &nbsp;Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-silva-64a715269/" target="_blank">
