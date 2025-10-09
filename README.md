@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 
-<h3>I'm a software developer based in Brazil. I like to program both Full-Stack projects for mobile devices or desktops.</h3>
+<h3>Passionate software developer focused on web systems, combining innovation with business vision to solve real-world challenges. My goal is to grow as a Tech Lead, leading projects that connect people and technology with impact.</h3>
 
 <div align="center">
    <img src="https://64.media.tumblr.com/6817bc1e7a8566924b4b2503a9ee4032/1eec2c221201275f-26/s640x960/4f6dffe3c2334ed1750917f9f0caa3ebc05c15a3.gif">
@@ -29,10 +29,14 @@ I'm currently working on [SmartCity](https://github.com/LucasSilvaC/SmartCity). 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/>       
 
 ### 🔹 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastApi" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" alt="Node" width="50" height="50"/>&nbsp;
+
+### 🔹 DataBase
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSql" width="50" height="50"/>&nbsp;
                      
 &nbsp;
 
