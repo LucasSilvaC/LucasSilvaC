@@ -29,7 +29,7 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
 ## 📬 &nbsp;Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-silva-64a715269/" target="_blank">
+  <a href="www.linkedin.com/in/lucas-camargo-64a715269" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 0 10px;" />
   </a>
   &nbsp;
