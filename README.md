@@ -52,7 +52,7 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
 
 ### ⚙️ **Backend Development**
 <div align="center" style="margin: 25px 0;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="Django" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastApi" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" alt="NodeJs" width="50" height="50" style="margin: 0 20px;" />
