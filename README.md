@@ -56,6 +56,7 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastApi" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" alt="NodeJs" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="margin: 0 20px;" />
 </div>
 
 ### 🗄️ **Database & Tools**
