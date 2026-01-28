@@ -46,7 +46,7 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
 <div align="center" style="margin: 25px 0;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" style="margin: 0 20px;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" alt="Next" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50" style="margin: 0 20px;" />
 </div>
 
@@ -66,6 +66,8 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="50" height="50" style="margin: 0 20px;" />
 </div>
 
 ---
