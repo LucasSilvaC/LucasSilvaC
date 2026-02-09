@@ -54,7 +54,7 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
 <div align="center" style="margin: 25px 0;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastApi" width="50" height="50" style="margin: 0 20px;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" alt="NodeJs" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="margin: 0 20px;" />
 </div>
@@ -63,6 +63,7 @@ I specialize in creating robust web systems that solve real-world challenges. Wi
 <div align="center" style="margin: 25px 0;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSql" width="50" height="50" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" width="50" height="50" style="margin: 0 20px;" />
