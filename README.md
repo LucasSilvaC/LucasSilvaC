@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hello World, I'm Lucas Silva</h1>
+  <h1>Hello World, I'm Lucas Camargo</h1>
   <p><em>Crafting digital solutions that bridge innovation and business impact</em></p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/N-i7qFwh_N8AAAAd/jujutsu-kaisen-shibuya-arc-aoi-todo-shibuya-arc.gif" width="850" alt="Anime coding vibe"/>
+  <img src="https://media1.tenor.com/m/N-i7qFwh_N8AAAAd/jujutsu-kaisen-shibuya-arc-aoi-todo-shibuya-arc.gif" width="650" alt="Anime coding vibe"/>
 </div>
 
 <br/>
@@ -28,19 +28,6 @@
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
-
-<br/>
-
-<details>
-<summary><strong>More about me</strong></summary>
-
-<br/>
-
-I specialize in creating robust web systems that solve real-world challenges.
-With a strong focus on technical excellence and business impact, I am growing toward a Tech Lead role and building products that improve how people interact with technology.
-
-**Focus areas:** Full-Stack Development, Clean Architecture, Team Leadership, System Design
-</details>
 
 ---
 
