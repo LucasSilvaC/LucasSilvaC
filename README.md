@@ -1,122 +1,90 @@
 <div align="center">
-  <h1>Hello World, I'm Lucas Camargo</h1>
-  <p><em>Crafting digital solutions that bridge innovation and business impact</em></p>
+  <p><samp>FULL-STACK · APPLIED AI · CAMPINAS, BRAZIL</samp></p>
+  <h1>Hi, I'm Lucas 👋</h1>
+  <p><strong>Software Engineer at Bosch</strong><br>Somewhere between interfaces, AI agents, and an episode of Jujutsu Kaisen.</p>
+  <br>
+  <img src="https://gifdb.com/images/high/blue-lock-king-barou-transformation-q1h7kx1vsdryc19h.webp" width="650" alt="King Barou gif">
+  <br><br>
+  <p><em>From idea to product. From the interface to the intelligence behind it.</em></p>
+  <p>
+    <a href="https://portfolio-lucas-three.vercel.app/pt"><strong>Explore my portfolio ↗</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://linkedin.com/in/lucas-camargo-64a715269">LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="mailto:lucas.silva.cop67@gmail.com">Email</a>
+  </p>
 </div>
 
-<br/>
+<br>
+
+## 🧑‍💻 Behind the code
+
+I build applications, APIs, and AI-powered automations for business teams across Latin America and Bosch's global business units. I focus on connecting interfaces, data, and models to workflows that people use.
+
+At work, that means **Next.js and TypeScript every day**, solutions built with **Python, LLMs, and RAG**, and collaboration with international teams. In my personal project **Acrux**, I explore how to organize agents, context, and tools within a desktop application.
+
+<p><samp>Campinas, SP &nbsp; / &nbsp; English B2 &nbsp; / &nbsp; Intermediate Spanish</samp></p>
+
+## ⚡ What I've put into practice
+
+- **Accessibility in use.** I built the entire TypeScript accessibility plugin for Plura, published on npm and adopted by **more than 10 software applications**, with **over 100 users**. I also contributed to the web app and implemented its LLM agents with tool calling.
+- **AI on an international assignment.** In Chile, in September 2026, I implemented AI and automation solutions for two teams. The reported result was **35 hours saved per month per team**.
+- **From interface to delivery.** At Bosch, I work on full-stack development, LLM and RAG integration, asynchronous processing, and Azure infrastructure with CI/CD.
+
+## 🛠️ Projects to explore
+
+### Olimpo · Machine learning and real-time interaction
+
+I contributed as a full-stack developer to an educational media-literacy platform. The project combines multiplayer rooms, voting, rankings, and feedback from machine-learning text classification.
+
+**Project stack** · Python, scikit-learn, Next.js, TypeScript, PostgreSQL, Redis, and SSE.
+
+[Explore Olimpo's code](https://github.com/LucasSilvaC/olimpo-fake-news-ai)
+
+### Plura · Accessibility and AI agents
+
+A capstone project used in corporate software. Alongside the accessibility plugin, I implemented agents that query data through tools to help recommend suitable work areas based on employees' profiles and accessibility needs.
+
+**My contribution** · A plugin built in plain TypeScript, full-stack development, and LLM agents with tool calling. I received the Plura Quality Award in March 2026 for my contributions to the project.
+
+<details>
+<summary><strong>Acrux · My personal agent orchestration project</strong></summary>
+
+I work on the full-stack development of a desktop application that organizes development agents on a canvas, with role-based planning, execution, and review. The project includes per-workspace history, context management, and access to structured knowledge through a local MCP server.
+
+**Project stack** · TypeScript, Electron, React, Node.js, SQLite, and MCP.
+
+</details>
+
+## 🧠 How I work with technology
+
+- **Product and web** · Next.js and TypeScript daily, with experience in React and API development using Python, Node.js, Go, and Spring Boot.
+- **Applied AI** · LLMs, RAG, agents, and tool calling, alongside supervised and unsupervised learning with Python.
+- **Data and processing** · PostgreSQL, Redis, and BullMQ for persistence, integrations, and asynchronous tasks.
+- **Delivery** · Azure, Docker, Kubernetes, Terraform, and CI/CD pipelines with Azure DevOps.
+
+<details>
+<summary><strong>Background and education</strong></summary>
+
+My journey at Bosch began as a **Digital Solutions Apprentice**, working on internal applications, APIs, and AI projects. Today, I work as a **Software Engineer**, collaborating with international teams every day.
+
+- **Artificial Intelligence Residency Program — PUC-Campinas** · In progress, expected completion in April 2027.
+- **Bachelor's Degree in Software Engineering — UNINTER** · In progress, expected graduation in December 2028.
+- **Bachelor's Degree in Information Technology with AI — Univesp** · In progress, expected graduation in June 2029.
+- **Technical Diplomas in Systems Development — SENAI and ETEC** · Both completed.
+
+</details>
+
+<br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/N-i7qFwh_N8AAAAd/jujutsu-kaisen-shibuya-arc-aoi-todo-shibuya-arc.gif" width="650" alt="Anime coding vibe"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
-
-<br/>
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-  <a href="https://portfolio-lucas-camargo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-080c14?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
----
-
-## Tech Stack
-
-### Frontend Development
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" />
-</div>
-
-### Backend Development
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" alt="Node.js" width="50" height="50" />
-</div>
-
-### Database and Tools
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" />
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaC&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=html,css)
-
-<br/>
-
-[![Lucas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LucasSilvaC&bg_color=0D1117&color=84C2C0&line=84C2C0&point=DEDEDE&area=true&hide_border=true&custom_title=My%20Coding%20Journey)](https://github.com/LucasSilvaC)
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSilvaC&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Design%20Patterns-Strategy%20%7C%20Observer%20%7C%20Factory-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-Layers%20%7C%20SOLID%20%7C%20DDD-4ECDC4?style=for-the-badge&logo=architecture&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Team%20Leadership-Agile%20%7C%20Mentoring%20%7C%20Code%20Reviews-45B7D1?style=for-the-badge&logo=people-arrows&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/System%20Design-Scalability%20%7C%20Performance%20%7C%20Security-9B59B6?style=for-the-badge&logo=diagram-3&logoColor=white" />
-</p>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://YOUR_PORTFOLIO_URL_HERE">
-    <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
-  </a>
-  <a href="mailto:lucas.silva.cop67@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-camargo-64a715269/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasSilvaC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <h2>Let's build something together</h2>
+  <p>I'm interested in <strong>AI Engineer</strong> and <strong>Software Engineer</strong> opportunities,<br>with a focus on applied AI and product development.</p>
+  <p>
+    <a href="https://portfolio-lucas-three.vercel.app/pt"><strong>Explore my work ↗</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://linkedin.com/in/lucas-camargo-64a715269">Let's connect on LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="mailto:lucas.silva.cop67@gmail.com">Send me an email</a>
+  </p>
 </div>
